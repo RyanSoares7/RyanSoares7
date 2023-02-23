@@ -1,6 +1,6 @@
 ### Olá! eu sou o Ryan Soares ✌️
 
-![snake gif](https://github.com/RyanSoares7/RyanSoares7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RyanSoares7/RyanSoares7/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Apaixonado por tecnologia.
 - 🌱 Estudante de programação.
