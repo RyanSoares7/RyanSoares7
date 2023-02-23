@@ -19,3 +19,7 @@
 </div><br/>
 
 Apaixonado por tecnologia e resolução de problemas através da programação ❤️
+
+
+
+![snake gif](https://github.com/RyanSoares7/RyanSoares7/blob/output/github-contribution-grid-snake.svg)
