@@ -1,7 +1,10 @@
 ### Olá! eu sou o Ryan Soares ✌️
 
+![snake gif](https://github.com/RyanSoares7/RyanSoares7/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 Apaixonado por tecnologia.
 - 🌱 Estudante de programação.
+
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
 
@@ -22,4 +25,4 @@ Apaixonado por tecnologia e resolução de problemas através da programação �
 
 
 
-![snake gif](https://github.com/RyanSoares7/RyanSoares7/blob/output/github-contribution-grid-snake.svg)
+
