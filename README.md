@@ -3,6 +3,7 @@
 - 🔭 Apaixonado por tecnologia.
 - 🌱 Estudante de programação.
 - ❤️ Apaixonado por tecnologia e resolução de problemas através da programação.
+- 💼 Em busca da primeira oportunidade de emprego.
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
