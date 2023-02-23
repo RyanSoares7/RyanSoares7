@@ -2,12 +2,13 @@
 
 - 🔭 Apaixonado por tecnologia.
 - 🌱 Estudante de programação.
+- ❤️ Apaixonado por tecnologia e resolução de problemas através da programação.
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
 
-![Ryan Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanSoares7&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanSoares7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Ryan Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansoares7&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansoares7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu utilizo 🚀
 
@@ -19,7 +20,7 @@
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react js"/>
 </div><br/>
 
-Apaixonado por tecnologia e resolução de problemas através da programação ❤️
+
 
 
 
