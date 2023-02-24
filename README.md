@@ -6,7 +6,7 @@
 - 💼 Em busca da primeira oportunidade de emprego.
 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-soares-1a8908267/)
 
 ![Ryan Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansoares7&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansoares7)](https://github.com/anuraghazra/github-readme-stats)
