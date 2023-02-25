@@ -1,8 +1,7 @@
 ### Olá! eu sou o Ryan Soares ✌️
 
-- 🔭 Apaixonado por tecnologia.
-- 🌱 Estudante de programação.
 - ❤️ Apaixonado por tecnologia e resolução de problemas através da programação.
+- 🌱 Estudante de programação.
 - 💼 Em busca da primeira oportunidade de emprego.
 
 
