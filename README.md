@@ -7,7 +7,7 @@
 ## Sobre mim 🤵
 
 - ❤️ Apaixonado por tecnologia e resolução de problemas através da programação.
-- 🌱 Estudante de programação.
+- 📚 Estudante de programação.
 - 💼 Em busca da primeira oportunidade de emprego.
 
 <br/>
@@ -16,6 +16,8 @@
 
 ![Ryan Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansoares7&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansoares7&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 ## Tecnologias que eu utilizo 👨🏻‍💻
 
