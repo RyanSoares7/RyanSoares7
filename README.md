@@ -15,7 +15,6 @@
 ## Stats ⭐
 
 ![Ryan Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansoares7&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansoares7&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -29,6 +28,8 @@
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react js"/>
 </div>
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansoares7&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Ferramentas 👨🏻‍💻
 
