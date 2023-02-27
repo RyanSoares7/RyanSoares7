@@ -7,7 +7,7 @@
 ## Sobre mim 🤵
 
 - ❤️ Apaixonado por tecnologia e resolução de problemas através da programação.
-- 📚 Estudante de programação.
+- 📚 Estudante de programação (Atualmente aprendendo react js).
 - 💼 Em busca da primeira oportunidade de emprego.
 
 <br/>
